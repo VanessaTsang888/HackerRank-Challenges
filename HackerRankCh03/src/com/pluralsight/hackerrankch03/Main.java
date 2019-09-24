@@ -11,22 +11,19 @@ public class Main {
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         scanner.close();
-        if (n % 2 != 0) {
-            System.out.println("Weird");
-            // The below two if statements are nested.
-            if (n == 2 || n == 4) { // equality operator not the assignment operator.
+
+        // To confirm if the below 3 statements are even numbers (not Weird).
+        // n divided by 2 and what is left equals to 0. Therefore, a even number.
+        if (n % 2 == 0) { // using the equality operator not the assignment operator.
+            if (n == 2 || n == 4) {
+                System.out.println("Not Weird");
+            } else if (n > 5 && n <= 20) {
+                System.out.println("Weird");
+            } else if (n > 20) {
                 System.out.println("Not Weird");
             }
-            if (n > 5 && n <= 20) {
-                System.out.println("Weird");
-            }
-        }
-        else if (n > 20) {
-            System.out.println("Not Weird");
-        }
-
-        else {
-            // odd numbers = Weird.
+            // If the input is not even, then the below will execute as it must be odd - Weird.
+        }  else {
             System.out.println("Weird");
         }
     }
