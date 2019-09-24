@@ -15,6 +15,7 @@ public class Main {
         // To confirm if the below 3 statements are even numbers (not Weird).
         // n divided by 2 and what is left equals to 0. Therefore, a even number.
         if (n % 2 == 0) { // using the equality operator not the assignment operator.
+            // Below are nested statements as they are all checking for even numbers.
             if (n == 2 || n == 4) {
                 System.out.println("Not Weird");
             } else if (n > 5 && n <= 20) {
