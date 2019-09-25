@@ -18,7 +18,7 @@ public class Main {
         calling nextLine() again will move past and get the next line from the input */
 
         // Get info as type of string from user.
-        scan.nextLine();
+        s = scan.nextLine();
 
         System.out.println("String: " + s);
         System.out.println("Double: " + d);

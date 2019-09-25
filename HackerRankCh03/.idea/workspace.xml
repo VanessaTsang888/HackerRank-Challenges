@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a30460c1-20b8-4ada-b020-657042827904" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh01/HackerRankCh01_Code+Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh02/HackerRankCh02_Code+Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh02/out/production/HackerRankCh02/com/pluralsight/hackerrankch02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankCh03a_Code+Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankCh03b_Code+Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh04/HackerRankCh04_Code+Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankCh04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh01/src/com/pluralsight/hackerrankch01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh01/src/com/pluralsight/hackerrankch01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh02/src/com/pluralsight/hackerrankch02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh02/src/com/pluralsight/hackerrankch02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HackerRankCh03/com/pluralsight/hackerrankch03/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRankCh03/com/pluralsight/hackerrankch03/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pluralsight/hackerrankch03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/hackerrankch03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh04/out/production/HackerRankCh04/com/pluralsight/hackerrankch04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh04/out/production/HackerRankCh04/com/pluralsight/hackerrankch04/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankCh04/src/com/pluralsight/hackerrankch04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRankCh04/src/com/pluralsight/hackerrankch04/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +34,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1RHViihH3tn2jJSdIZX8IEr4JZj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -68,10 +89,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
